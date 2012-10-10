@@ -1,3 +1,5 @@
 A new file for exploring command-line Git.
 
 Making some changes to have more commits to play with.
+
+Further changes.
